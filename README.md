@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Swapnanil-Sarkar<br>👀 I’m interested in front-end development<br>🌱 I’m currently learning react js<br>💞️ I’m looking to collaborate on front-end projects<br>📫 Email: swapnanil219@gmail.com<br>💼 LinkedIn: www.linkedin.com/in/swapnanilsarkar/<br>🎓 MCA|Amity University, Kolkata
+👋 Hi, I’m @Swapnanil-Sarkar<br>👀 I’m interested in front-end development<br>🌱 I’m currently learning react js<br>💞️ I’m looking to collaborate on front-end projects<br>📫 Email: swapnanil219@gmail.com<br>💼 LinkedIn: www.linkedin.com/in/swapnanilsarkar/<br>🎓 MCA, Amity University, Kolkata
 
 
 ## 🌐 Socials:
