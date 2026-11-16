@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hi, I’m @Swapnanil-Sarkar<br>👀 I’m interested in front-end development<br>🌱 I’m currently learning react js<br>💞️ I’m looking to collaborate on front-end projects<br>📫 Email: swapnanil219@gmail.com<br>💼 LinkedIn: www.linkedin.com/in/swapnanilsarkar/<br>🎓 MCA, Amity University, Kolkata
+👋 Hi, I'm **Swapnanil Sarkar** (@Swapnanil-Sarkar)
+
+💼 SAP Embedded Analytics Consultant at TCS
+
+📊 Working with SAP S/4HANA, ABAP CDS Views, Embedded Analytics, and Reporting & Analysis
+
+🌱 Currently exploring SAP ABAP, SAP BTP, and SAP Security & Governance
+
+🔍 Interested in Enterprise Analytics, SAP Development, and Data-Driven Business Solutions
+
+🤝 Open to collaborating on SAP, ABAP CDS, and Enterprise Analytics projects
+
+📫 Email: swapnanil219@gmail.com<br>
+💼 LinkedIn: www.linkedin.com/in/swapnanilsarkar/<br>
+🎓 MCA, Amity University, Kolkata
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wannaslip) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wannaslip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnanilsarkar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wannaslip) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Swapnanil-Sarkar) 
