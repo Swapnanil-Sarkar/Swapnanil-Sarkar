@@ -1,14 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm **Swapnanil Sarkar** (@Swapnanil-Sarkar)
-
+👋 Hi, I'm @Swapnanil-Sarkar
 💼 SAP Embedded Analytics Consultant at TCS
-
 📊 Working with SAP S/4HANA, ABAP CDS Views, Embedded Analytics, and Reporting & Analysis
-
 🌱 Currently exploring SAP ABAP, SAP BTP, and SAP Security & Governance
-
 🔍 Interested in Enterprise Analytics, SAP Development, and Data-Driven Business Solutions
-
 🤝 Open to collaborating on SAP, ABAP CDS, and Enterprise Analytics projects
 
 📫 Email: swapnanil219@gmail.com<br>
